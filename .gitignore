@@ -1,0 +1,6 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+/stem-player-sdk/
+source2.js
